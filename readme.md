@@ -1,3 +1,4 @@
+.
 # 📚 API de Reserva de Salas
 
 Este repositório contém a **API de Reserva de Salas**, desenvolvida com **Flask** e **SQLAlchemy**, como parte de uma arquitetura baseada em **microsserviços**.
